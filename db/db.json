@@ -1,1 +1,9 @@
-[{"title":"Test Title","text":"Test text"}]
+{
+  "notesArray": [
+    {
+      "title": "hello",
+      "text": "hi",
+      "id": "283c14d8-b0ab-498e-8c22-01b0bcf31412"
+    }
+  ]
+}
