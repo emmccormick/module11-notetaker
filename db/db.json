@@ -2,8 +2,13 @@
   "notesArray": [
     {
       "title": "hello",
-      "text": "hi",
-      "id": "283c14d8-b0ab-498e-8c22-01b0bcf31412"
+      "text": "note 1",
+      "id": "d41b2d6a-decb-4d6e-97b6-b49f5ea38633"
+    },
+    {
+      "title": "good bye",
+      "text": "note 2",
+      "id": "62c77ec9-73e1-4b37-b15f-2d8709ba9248"
     }
   ]
 }
