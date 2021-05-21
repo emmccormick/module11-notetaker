@@ -1,14 +1,1 @@
-{
-  "notesArray": [
-    {
-      "title": "hello",
-      "text": "note 1",
-      "id": "d41b2d6a-decb-4d6e-97b6-b49f5ea38633"
-    },
-    {
-      "title": "good bye",
-      "text": "note 2",
-      "id": "62c77ec9-73e1-4b37-b15f-2d8709ba9248"
-    }
-  ]
-}
+[{"title":"hello","text":"note 1","id":"aaa11d87-b721-4ad1-8a8b-d2ccb77a93f6"},{"title":"this is note 2","text":"info goes in here","id":"8fc16125-e0f8-4b97-972b-f59161a19fde"}]
